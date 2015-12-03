@@ -14,7 +14,7 @@ Caveats / TODO
 * hostname must be set and routable. See http://wiki.computationalartscorp.com/index.php/Liatrio_Simple_Virtual_Networking
 * registering Nexus as a service is not implemented in the recipe[nexus::install]
 * Due to KP's networking configuration the recipe[nexus::default] does not work. And, installing with recipe[nexus::install] does not secure the installation with either SSL or a non-default password.
-
+* From: https://books.sonatype.com/nexus-book/reference/install-sect-service.html
 
 
 Requirements
